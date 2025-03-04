@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Eunice, and I'm currently a laboratory technician in Next Generation Sequencing. I'm interested in ....
 
 <!--
 **eunice-liew/eunice-liew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
