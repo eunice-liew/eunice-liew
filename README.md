@@ -1,11 +1,11 @@
 ## Hi there 👋
 My name is Eunice, and I'm currently a laboratory technician in Next Generation Sequencing. I'm interested in ....
 # Quick Links
-* [Skills]
-* [Education]
-* [Experience]
-* [Blog]
-* [Contact]
+* [Skills](#skills)
+* [Education](#education)
+* [Experience](#experience)
+* [Blog](#blog)
+* [Contact](#contact)
 # Skills
 # Education
 # Experience
