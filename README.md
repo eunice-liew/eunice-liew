@@ -10,6 +10,11 @@ I'm Eunice, a laboratory technician in Next Generation Sequencing. I'm intereste
 # Education
 # Experience
 # Blog
+Pipette Perspective
+Mind Over Metabolism
+From Lab to Life
+The Scientific Gut
+The Petri Dish
 # Contact
 I'm are some ideas to get you started:
 
